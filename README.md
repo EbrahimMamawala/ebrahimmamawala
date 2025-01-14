@@ -1,11 +1,18 @@
-<h1>
-  Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+IoT+Enthusiast;Problem+Solver+%7C+Tech+Evangelist;Passionate+About+AI+and+IoT;Let's+Build+Something+Amazing+Together!+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/EbrahimMamawala"><img src="https://img.shields.io/github/followers/EbrahimMamawala?label=Follow&style=social" alt="GitHub Followers"></a>
+  <a href="https://www.linkedin.com/in/ebrahimmamawala"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
 
 ---
 
@@ -26,13 +33,22 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 ### 📈 GitHub Stats  
- 
+
+![Ebrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebrahimmamawala&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimmamawala&layout=compact&theme=tokyonight)
-
 ---
-### 💬 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ebrahim-mamawala)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ebrahim-mamawala)  
+<h3 align="center">📬 Connect with Me 📬</h3>
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/ebrahimmamawala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/EbrahimMamawala"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=ebrahimmamawala&style=flat-square&color=blue" alt=""/>
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i> – Cory House
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EbrahimMamawala&style=flat-square&color=blue" alt="Profile Views" />
+</p>
